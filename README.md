@@ -1,0 +1,2 @@
+# firstScrn
+Android studio assignment
